@@ -1,0 +1,12 @@
+Set Up :
+        Through Terminal : (windows,linux,mac,....etc)
+        step 1 : curl -O "https://hacker1514.github.io/sql/Ksql.jar"
+        step 2 : java -jar Ksql.jar ("For all time to runing terminal")
+        
+Set Up :
+        Through Manually : (windows,linux,mac,.....etc)
+        step 1 : download Ksql.jar file through url ("https://hacker1514.github.io/sql/Ksql.jar")
+        step 2 : java -jar Ksql.jar ("For all time to runing terminal")
+
+Requirements :
+        * Java Installation
